@@ -1,0 +1,19 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "A mean stack application which can be used for any other project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krish-sai-p/meanapp.git"
+  },
+  "author": "Sai Krisha Paluru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krish-sai-p/meanapp/issues"
+  },
+  "homepage": "https://github.com/krish-sai-p/meanapp#readme"
+}
